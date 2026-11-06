@@ -1,4 +1,4 @@
-# Online Retail Market Basket Analysis — Vercel Edition
+# Online Retail Market Basket Analysis — Vercel Edition 
 
 React + Vite frontend for Vercel and FastAPI + Python backend for Render. Includes Apriori, FP-Growth, association rules, algorithm timing comparison, CSV upload, and cross-sell recommendations. 
 
