@@ -31,7 +31,7 @@ uvicorn main:app --reload
 Frontend terminal:
 ```powershell
 cd frontend
-npm install
+npm install 
 npm run dev
 ```
 Open the Vite URL shown in the terminal (usually http://localhost:5173). Set `VITE_API_URL=http://localhost:8000` in `frontend/.env.local` if needed.
