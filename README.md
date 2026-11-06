@@ -23,7 +23,7 @@ React + Vite frontend for Vercel and FastAPI + Python backend for Render. Includ
 Backend terminal:
 ```powershell
 cd backend
-py -m venv .venv
+py -m venv .venv 
 .\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
 uvicorn main:app --reload
