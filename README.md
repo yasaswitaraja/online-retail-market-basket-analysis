@@ -14,7 +14,7 @@ React + Vite frontend for Vercel and FastAPI + Python backend for Render. Includ
 ## 2. Deploy frontend to Vercel
 1. Import the same GitHub repository into Vercel.
 2. Set **Root Directory** to `frontend`.
-3. Framework preset: Vite.
+3. Framework preset: Vite. 
 4. Add environment variable `VITE_API_URL` = your Render service URL, e.g. `https://market-basket-api.onrender.com` (no trailing slash).
 5. Deploy.
 6. Copy the Vercel URL and update Render's `FRONTEND_ORIGIN` to that exact URL. Redeploy the backend if needed.
